@@ -1,7 +1,9 @@
 .choresText {
-   color: black;
+   color: purple;
+
+   font: Helvetica;
 }
 
 .choresHeading {
-   color: black;
+   color: purple;
 }
