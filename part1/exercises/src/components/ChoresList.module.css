@@ -1,9 +1,12 @@
 .choresText {
    color: purple;
-
+   background-color: pink;
+   font-style: italic;
    font: Helvetica;
 }
 
 .choresHeading {
    color: purple;
+   background-color: grey;
+   text-decoration: underline;
 }
