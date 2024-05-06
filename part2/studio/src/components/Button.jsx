@@ -3,7 +3,7 @@ import SaveButton from "./SaveButton";
 
 function Button(props) {
   const saveButton = props.saveButton;
-  return saveButton ? 
+  return !saveButton ? 
     <SaveButton/> : <ClickedButton/>;
   //  return;
  }
